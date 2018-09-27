@@ -2,7 +2,7 @@
 {
   "modid": "labyrinth",
   "name": "Daedalus' Labyrinth",
-  "description": "Explore the many rooms and corridors of Daedalus' labyrinth.",
+  "description": "Explore the many rooms and corridors of Daedalus' labyrinth. Poorly Ported by jacewiththeredvans.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "https://github.com/abecderic/labyrinth",
