@@ -2,10 +2,10 @@
   "forge_marker": 1,
   "defaults":
   {
-    "model": "labyrinth:daedalusPortal",
+    "model": "labyrinth:daedalusportal",
     "textures":
     {
-      "side": "labyrinth:blocks/daedalusPortal"
+      "side": "labyrinth:blocks/daedalusportal"
     }
   },
   "variants":
